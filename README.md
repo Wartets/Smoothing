@@ -1,7 +1,3 @@
-Voici un README clair et synthétique pour expliquer l’usage de tes fonctions `smooth`, `smooth2D` et `smooth2Dxy` :
-
----
-
 # Fonctions de lissage par transitions sigmoïdes (smooth)
 
 Ce dépôt contient des fonctions Python pour créer des fonctions continues et lisses par interpolation entre plusieurs fonctions définies sur différents intervalles, grâce à des transitions sigmoïdales douces.
