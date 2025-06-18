@@ -94,6 +94,6 @@ plt.plot(x, f(x))
 plt.show()
 ```
 
-Voir ce notebook sinon
+Voir ce [notebook](Smoothing.ipynb) sinon, pour des exemples plus détaillés.
 
 ---
